@@ -20,7 +20,7 @@ export const projects: Project[] = [
   {
   id: 1,
   title: 'LearnCade',
-  tags: ['TypeScript', 'Next.js', 'Claude API', 'Figma', 'GitHub'],
+  tags: ['TypeScript', 'Next.js', 'Claude API', 'Supabase', 'Figma', 'GitHub'],
   brief: 'Developed LearnCade, a web platform that transforms classic arcade games into educational experiences for children. Features include three games, game sharing, user profiles, and Classroom Mode with live leaderboards for teachers and schools.',
   image: '/assets/images/learncade-main.png',
   video: '/assets/videos/learncade-demo.mp4',
@@ -93,8 +93,8 @@ export const projects: Project[] = [
   {
     id: 5,
     title: "Captain Cosmic's Rocketship Journey",
-    tags: ['Unity', 'C#', 'OpenAI Platform API'],
-    brief: 'Developed Captain Cosmic\'s Rocketship Journey for the <a href="https://www.spacecentre.co.uk/" target="_blank" rel="noopener noreferrer" class="company-link">National Space Centre</a>, supervised by <a href="https://nssctest.co.uk/" target="_blank" rel="noopener noreferrer" class="company-link">NSC Creative</a>. This 3D game educates kids through a fun mission and an AI-powered avatar.',
+    tags: ['Unity', 'C#'],
+    brief: 'Developed Captain Cosmic\'s Rocketship Journey for the <a href="https://www.spacecentre.co.uk/" target="_blank" rel="noopener noreferrer" class="company-link">National Space Centre</a>, supervised by <a href="https://nssctest.co.uk/" target="_blank" rel="noopener noreferrer" class="company-link">NSC Creative</a>. This 3D game educates kids through interesting facts and a fun mission.',
     image: '/assets/images/CCRJ-main.png',
     video: '/assets/videos/ccrj-demo.mp4',
     relatedWork: [
