@@ -21,7 +21,7 @@ export const projects: Project[] = [
   id: 1,
   title: 'LearnCade',
   tags: ['TypeScript', 'Next.js', 'Claude API', 'Supabase', 'Figma', 'GitHub'],
-  brief: 'Developed LearnCade, a web platform that transforms classic arcade games into educational experiences for children. Features include three games, game sharing, user profiles, and Classroom Mode with live leaderboards for teachers and schools.',
+  brief: 'Developed LearnCade, a web platform that transforms classic arcade games into educational experiences for children. Features include three games, game sharing, user profiles, and Classroom Mode with live leaderboards for teachers and schools. Deployment: https://learncade.vercel.app/',
   image: '/assets/images/learncade-main.png',
   video: '/assets/videos/learncade-demo.mp4',
   repoUrl: 'https://github.com/rahulrathod-git/LearnCade-fyp',
